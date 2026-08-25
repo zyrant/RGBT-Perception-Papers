@@ -184,9 +184,11 @@ DroneRGBT | Crowd Counting | Drone-based RGB-T crowd counting | [Dataset / Code]
 <a id="evaluation"></a>
 ## 📏 Evaluation
 
-- **Salient Object Detection:** [PySODEvalToolkit](https://github.com/lartpang/PySODEvalToolkit), [SOD Evaluation Metrics](https://github.com/zyjwuyan/SOD_Evaluation_Metrics), [Saliency Evaluation Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
-- **Semantic Segmentation:** evaluation scripts in [RTFNet](https://github.com/yuxiangsun/RTFNet), [GMNet](https://github.com/Jinfu0913/GMNet), and [CMX](https://github.com/huaaaliu/rgbx_semantic_segmentation)
-- **Crowd Counting:** evaluation tools in [DEFNet](https://github.com/panyi95/DEFNet) and [RGBTCrowdCounting](https://github.com/chen-judge/RGBTCrowdCounting)
+**Task** | **Resources** | **Notes**
+:- | :- | :-
+Salient Object Detection | [PySODEvalToolkit](https://github.com/lartpang/PySODEvalToolkit) · [SOD Evaluation Metrics](https://github.com/zyjwuyan/SOD_Evaluation_Metrics) · [Saliency Evaluation Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) | Common SOD evaluation toolkits and metrics
+Semantic Segmentation | [RTFNet](https://github.com/yuxiangsun/RTFNet) · [GMNet](https://github.com/Jinfu0913/GMNet) · [CMX](https://github.com/huaaaliu/rgbx_semantic_segmentation) | Reference implementations with semantic-segmentation evaluation scripts
+Crowd Counting | [DEFNet](https://github.com/panyi95/DEFNet) · [RGBTCrowdCounting](https://github.com/chen-judge/RGBTCrowdCounting) | Reference implementations and crowd-counting evaluation tools
 
 ---
 
