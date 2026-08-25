@@ -1,26 +1,29 @@
-# RGB-T Perception Papers
+<div align="center">
+
+# 🌈 RGB-T Perception Papers
+
+**Papers · Official Code · Datasets · Evaluation**
 
 [![GitHub Stars](https://img.shields.io/github/stars/zyrant/RGBT-Perception-Papers?style=flat-square&logo=github&label=Stars)](https://github.com/zyrant/RGBT-Perception-Papers/stargazers)
 [![Last Update](https://img.shields.io/badge/Last%20Update-2026.08.25-1f6feb?style=flat-square)](https://github.com/zyrant/RGBT-Perception-Papers)
-[![Scope](https://img.shields.io/badge/Scope-RGB--T%20Perception-orange?style=flat-square)](https://github.com/zyrant/RGBT-Perception-Papers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/zyrant/RGBT-Perception-Papers/pulls)
+[![RGB-T](https://img.shields.io/badge/RGB--T-Perception-orange?style=flat-square)](https://github.com/zyrant/RGBT-Perception-Papers)
 
-A collection of papers, official code, datasets, and evaluation resources for **RGB-T perception**.
+</div>
 
-RGB-T here also covers papers using terms such as **RGB-Thermal, Visible-Thermal, Visible-Infrared, and RGB-IR** when they belong to the three tasks below. Venue names link directly to papers, and GitHub star badges link to official code repositories.
+> 🤖 This repository was organized and maintained with assistance from **ChatGPT**. Thanks to ChatGPT for helping with literature collection, verification, and README organization.
 
-## Contents
+Here, **RGB-T** also includes **RGB-Thermal, Visible-Thermal, Visible-Infrared, and RGB-IR** when the work belongs to the three tasks collected in this repository. **Click a venue to open the paper; click a Stars badge to open the official code repository.**
 
-1. [RGB-T Salient Object Detection](#1-rgb-t-salient-object-detection)
-2. [RGB-T Semantic Segmentation](#2-rgb-t-semantic-segmentation)
-3. [RGB-T Crowd Counting](#3-rgb-t-crowd-counting)
-4. [Datasets](#4-datasets)
-5. [Evaluation](#5-evaluation)
-6. [Related Resources](#6-related-resources)
+<div align="center">
+
+[🔥 Salient Object Detection](#sod) · [🧩 Semantic Segmentation](#segmentation) · [👥 Crowd Counting](#crowd-counting) · [📚 Datasets](#datasets) · [📏 Evaluation](#evaluation) · [🔗 Resources](#related-resources)
+
+</div>
 
 ---
 
-# 1. RGB-T Salient Object Detection
+<a id="sod"></a>
+## 🔥 RGB-T Salient Object Detection
 
 **Year** | **Venue** | **Method** | **Title**
 :-: | :-: | :- | :-
@@ -82,7 +85,8 @@ RGB-T here also covers papers using terms such as **RGB-Thermal, Visible-Thermal
 
 ---
 
-# 2. RGB-T Semantic Segmentation
+<a id="segmentation"></a>
+## 🧩 RGB-T Semantic Segmentation
 
 **Year** | **Venue** | **Method** | **Title**
 :-: | :-: | :- | :-
@@ -140,7 +144,8 @@ RGB-T here also covers papers using terms such as **RGB-Thermal, Visible-Thermal
 
 ---
 
-# 3. RGB-T Crowd Counting
+<a id="crowd-counting"></a>
+## 👥 RGB-T Crowd Counting
 
 **Year** | **Venue** | **Method** | **Title**
 :-: | :-: | :- | :-
@@ -161,7 +166,8 @@ RGB-T here also covers papers using terms such as **RGB-Thermal, Visible-Thermal
 
 ---
 
-# 4. Datasets
+<a id="datasets"></a>
+## 📚 Datasets
 
 **Dataset** | **Task** | **Notes** | **Links**
 :- | :- | :- | :-
@@ -175,7 +181,8 @@ DroneRGBT | Crowd Counting | Drone-based RGB-T crowd counting | [Dataset / Code]
 
 ---
 
-# 5. Evaluation
+<a id="evaluation"></a>
+## 📏 Evaluation
 
 - **Salient Object Detection:** [PySODEvalToolkit](https://github.com/lartpang/PySODEvalToolkit), [SOD Evaluation Metrics](https://github.com/zyjwuyan/SOD_Evaluation_Metrics), [Saliency Evaluation Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
 - **Semantic Segmentation:** evaluation scripts in [RTFNet](https://github.com/yuxiangsun/RTFNet), [GMNet](https://github.com/Jinfu0913/GMNet), and [CMX](https://github.com/huaaaliu/rgbx_semantic_segmentation)
@@ -183,22 +190,25 @@ DroneRGBT | Crowd Counting | Drone-based RGB-T crowd counting | [Dataset / Code]
 
 ---
 
-# 6. Related Resources
+<a id="related-resources"></a>
+## 🔗 Related Resources
 
 - [Awesome-RGBT](https://github.com/VisionVerse/Awesome-RGBT)
 - [RGBT Salient Object Detection](https://github.com/lz118/RGBT-Salient-Object-Detection)
 - [Awesome Thermal Segmentation](https://github.com/UkcheolShin/Awesome-Thermal-Segmentation)
 
-## Contributing
+---
+
+### Contributing
 
 PRs are welcome. Please prefer **official paper/project links and official GitHub repositories**.
 
-## Acknowledgement
+### Acknowledgement
 
 Thanks to the authors and maintainers of the papers, codebases, datasets, and evaluation tools collected here.
 
-This repository was organized and maintained with assistance from **ChatGPT**. Thanks to ChatGPT for helping with literature collection, verification, and README organization.
+<div align="center">
 
----
+⭐ **Thanks to all authors for their excellent work!**
 
-## ⭐ Thanks to the above authors for their excellent work!
+</div>
