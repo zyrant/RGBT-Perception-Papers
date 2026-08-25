@@ -193,9 +193,18 @@ DroneRGBT | Crowd Counting | Drone-based RGB-T crowd counting | [Dataset / Code]
 <a id="related-resources"></a>
 ## 🔗 Related Resources
 
-- [Awesome-RGBT](https://github.com/VisionVerse/Awesome-RGBT)
-- [RGBT Salient Object Detection](https://github.com/lz118/RGBT-Salient-Object-Detection)
-- [Awesome Thermal Segmentation](https://github.com/UkcheolShin/Awesome-Thermal-Segmentation)
+**Area** | **Resource** | **Focus**
+:- | :- | :-
+RGB-T | [Awesome-RGBT](https://github.com/VisionVerse/Awesome-RGBT) | Papers and resources across RGB-T / visible-thermal perception
+RGB-T SOD | [RGBT Salient Object Detection](https://github.com/lz118/RGBT-Salient-Object-Detection) | RGB-T salient object detection papers, datasets, and results
+RGB-T Fusion | [Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion) | Visible-infrared image fusion and related multimodal methods
+Thermal Segmentation | [Awesome Thermal Segmentation](https://github.com/UkcheolShin/Awesome-Thermal-Segmentation) | Thermal and RGB-T semantic segmentation resources
+Multimodal SOD | [Awesome Salient Object Detection](https://github.com/visionxiang/awesome-salient-object-detection) | Curated SOD resources with emphasis on RGB-D / multimodal SOD
+RGB-D SOD | [RGBD-SODsurvey](https://github.com/taozh2017/RGBD-SODsurvey) | RGB-D SOD survey, models, datasets, benchmarks, and evaluation
+RGB-D SOD | [D3Net Benchmark](https://github.com/DengPingFan/D3NetBenchmark) | RGB-D salient object detection benchmark and evaluation resources
+Co-SOD | [CoSOD3K](https://github.com/DengPingFan/CoSOD3K) | Co-salient object detection benchmark, dataset, and resources
+Video SOD | [Video SOD Papers](https://github.com/Roudgers/Roudgers-Papers-of-Video-salient-object-detection-VSOD) | Paper list for video salient object detection
+General SOD | [SODsurvey](https://github.com/wenguanwang/SODsurvey) | Deep-learning-era salient object detection survey and benchmark resources
 
 ---
 
