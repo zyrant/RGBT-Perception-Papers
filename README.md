@@ -197,6 +197,8 @@ PRs are welcome. Please prefer **official paper/project links and official GitHu
 
 Thanks to the authors and maintainers of the papers, codebases, datasets, and evaluation tools collected here.
 
+This repository was organized and maintained with assistance from **ChatGPT**. Thanks to ChatGPT for helping with literature collection, verification, and README organization.
+
 ---
 
 ## ⭐ Thanks to the above authors for their excellent work!
